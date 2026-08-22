@@ -16,32 +16,53 @@ public:
     }
     void setZeroes(vector<vector<int>>& matrix) {
         int r = matrix.size();
-        int c = matrix[0].size();
-        vector<int> row(r, 0);
-        vector<int> col(c,0);
+    int c = matrix[0].size();
+    int col0 = 1;
+    // vector<int> row(r, 0); -> matrix[...][0] i.e. 0th col;
+    // vector<int> col(c,0); -> matrix[0][...] i.e. 0th row;
 
-        for (int i = 0; i < r; i++)
+    for (int i = 0; i < r; i++)
+    {
+        for (int j = 0; j < c; j++)
         {
-            for (int j = 0; j < c; j++)
+            if (matrix[i][j] == 0)
             {
-                if(matrix[i][j]==0){
-                    row[i]=1;
-                    col[j]=1;
+                matrix[i][0] = 0;
+                if (j != 0)
+                {
+                    matrix[0][j] = 0;
+                }
+                else
+                {
+                    col0 = 0;
                 }
             }
         }
+    }
+    for (int i = 1; i < r; i++)
+    {
+        for (int j = 1; j < c; j++)
+        {
+            if (matrix[i][j] != 0)
+            {
+                if (matrix[0][j] == 0 || matrix[i][0] == 0)
+                {
+                    matrix[i][j] = 0;
+                }
+            }
+        }
+    }
+
+    if (matrix[0][0] == 0)
+    {
+        for (int j = 0; j < c; j++)
+            matrix[0][j] = 0;
+    }
+    if (col0 == 0)
+    {
         for (int i = 0; i < r; i++)
-        {
-            if(row[i]==1){
-                row_0(matrix, i);
-            }
-        }
-        for (int i = 0; i < c; i++)
-        {
-            if(col[i]==1){
-                col_0(matrix, i);
-            }
-        }
-        return;
+            matrix[i][0] = 0;
+    }
+    return;
     }
 };
