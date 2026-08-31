@@ -5,11 +5,7 @@ public:
         vector<int> ans={};
         for(int i=0;i<nums.size();i++){
             hash[nums[i]]++;
-        }
-        for(auto i:hash){
-            if(i.second>nums.size()/3){
-                ans.push_back(i.first);
-            }
+            if(hash[nums[i]]==nums.size()/3+1) ans.push_back(nums[i]);
         }
         return ans;
     }
