@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0493-reverse-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1051-height-checker](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1051-height-checker) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -122,4 +124,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
