@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0056-merge-intervals) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
