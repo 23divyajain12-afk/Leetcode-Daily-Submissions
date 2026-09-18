@@ -4,8 +4,7 @@ public:
         int low = 0, high = height.size()-1;
         int maxi =0;
         while(low<=high){
-            int temp = (high - low)*min(height[high], height[low]);
-            maxi = max(maxi, temp);
+            maxi = max(maxi, ((high - low)*min(height[high], height[low])));
             if(height[low]<=height[high]){
                 low++;
             }
