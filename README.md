@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0031-next-permutation) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0031-next-permutation) |
@@ -166,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
