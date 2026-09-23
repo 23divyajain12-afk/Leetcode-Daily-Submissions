@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1051-height-checker](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1051-height-checker) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0875-koko-eating-bananas) |
 ## Binary Indexed Tree
 |  |
 | ------- |
