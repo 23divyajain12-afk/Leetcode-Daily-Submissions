@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -201,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
