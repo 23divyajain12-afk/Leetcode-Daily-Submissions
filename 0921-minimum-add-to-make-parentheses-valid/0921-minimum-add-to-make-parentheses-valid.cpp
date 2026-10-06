@@ -6,19 +6,14 @@ public:
         for(auto i:s){
             if(i=='(') st.push(i);
             else{
-                if(i == ')' && !st.empty() && st.top()=='('){
-                    st.pop();
+                if(st.empty()){
+                    cnt++;
                 }
                 else{
-                    st.push(i);
-                    cnt++;
+                    st.pop();
                 }
             }
         }
-        while(!st.empty()){
-            if(st.top()=='(') cnt++;
-            st.pop();
-        }
-        return cnt;
+        return cnt+st.size();
     }
 };
