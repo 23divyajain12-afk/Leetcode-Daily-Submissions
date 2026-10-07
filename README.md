@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1051-height-checker](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
