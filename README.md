@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2784-check-if-array-is-good](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2784-check-if-array-is-good) |
 | [3875-construct-uniform-parity-array-i](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [2784-check-if-array-is-good](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1051-height-checker) |
+| [2784-check-if-array-is-good](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2784-check-if-array-is-good) |
 ## Quicksort
 |  |
 | ------- |
