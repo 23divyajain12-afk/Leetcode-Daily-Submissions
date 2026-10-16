@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -235,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
