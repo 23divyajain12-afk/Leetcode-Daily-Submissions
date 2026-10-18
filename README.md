@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1021-remove-outermost-parentheses) |
