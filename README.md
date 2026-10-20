@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0050-powx-n) |
+| [0171-excel-sheet-column-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1021-remove-outermost-parentheses) |
