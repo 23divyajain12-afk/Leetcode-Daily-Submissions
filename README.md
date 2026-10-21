@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0836-rectangle-overlap) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Floyd's Cycle Finding Algorithm
 |  |
