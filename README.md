@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
