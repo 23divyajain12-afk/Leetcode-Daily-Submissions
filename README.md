@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3498-reverse-degree-of-a-string) |
@@ -260,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
