@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2784-check-if-array-is-good) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3498-reverse-degree-of-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
