@@ -9,6 +9,6 @@ public:
                 i/=10;
             }
         }
-        return max(sum-dsum, dsum-sum);
+        return abs(sum-dsum);
     }
 };
