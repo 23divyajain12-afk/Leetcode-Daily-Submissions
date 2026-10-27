@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1486-xor-operation-in-an-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
