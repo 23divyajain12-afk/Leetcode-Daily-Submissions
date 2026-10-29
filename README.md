@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
