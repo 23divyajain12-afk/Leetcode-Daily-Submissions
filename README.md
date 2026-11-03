@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3232-find-if-digit-game-can-be-won](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
