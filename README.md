@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0088-merge-sorted-array) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0171-excel-sheet-column-number) |
@@ -295,4 +297,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
