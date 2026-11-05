@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1512-number-of-good-pairs) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2784-check-if-array-is-good](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2784-check-if-array-is-good) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
