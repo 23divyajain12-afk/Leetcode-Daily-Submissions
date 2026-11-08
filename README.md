@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1051-height-checker) |
+| [1267-count-servers-that-communicate](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -186,11 +188,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [1267-count-servers-that-communicate](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting Sort
@@ -318,4 +322,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
