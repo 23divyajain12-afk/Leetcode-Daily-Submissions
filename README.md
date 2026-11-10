@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1051-height-checker) |
 | [1267-count-servers-that-communicate](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1267-count-servers-that-communicate) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0202-happy-number) |
+| [0905-sort-array-by-parity](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
