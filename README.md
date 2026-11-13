@@ -337,9 +337,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1267-count-servers-that-communicate) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
