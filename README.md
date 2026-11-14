@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2798-number-of-employees-who-met-the-target](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3364-minimum-positive-sum-subarray](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -356,4 +358,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
