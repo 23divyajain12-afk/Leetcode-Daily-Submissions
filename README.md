@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
