@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2784-check-if-array-is-good](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2784-check-if-array-is-good) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
