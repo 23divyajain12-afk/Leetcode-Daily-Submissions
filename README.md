@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3364-minimum-positive-sum-subarray](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2784-check-if-array-is-good](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/2784-check-if-array-is-good) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0152-maximum-product-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Simulation
 |  |
 | ------- |
