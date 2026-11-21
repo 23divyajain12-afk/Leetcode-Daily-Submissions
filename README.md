@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/0198-house-robber) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/23divyajain12-afk/Leetcode-Daily-Submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Simulation
